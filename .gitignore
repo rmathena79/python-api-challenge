@@ -1,3 +1,9 @@
+# Credentials
+**/api_keys.py
+
+# Output files generated during run
+output_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
