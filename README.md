@@ -8,6 +8,7 @@ Data Analytics Boot Camp Module 6 Challenge
 
 ## Instructions
 - pip install citipy
+- set up hvplot-env as described in the activities
 - Run the notebook to generate the output files
 
 ## Notes
